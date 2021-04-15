@@ -1,7 +1,7 @@
 # Hotel Reservation App
 - Everything you see inside the Application written in pure Java and Designed by me.
 - You can check out JavaDocs generated for documentation.
-
+IMPORTANT: Project seems to be HTML heavy that is because of JavaDocs! 
 ## Main Components
 
 There are three major components in this project: 

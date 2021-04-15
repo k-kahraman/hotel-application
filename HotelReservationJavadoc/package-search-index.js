@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"api"},{"l":"appmanager"},{"l":"enums"},{"l":"main"},{"l":"menus"},{"l":"models"},{"l":"service"}];updateSearchResults();

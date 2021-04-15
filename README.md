@@ -16,7 +16,7 @@ Applications architecture is also designed and written by me.
 I used layering for code maintainability and to make it more human readable. The app will be separated into the following layers:
 
 - User interface (UI), including a main menu for the users who want to book a room, and an admin menu for administrative functions.
-- An AppManager to take user inputs from UI (CLI) and parse them to wanted/required type.
+- AppManager to take user inputs from UI (CLI) and parse them to wanted/required type.
 - Resources will act as our Application Programming Interface (API) to our UI.
 - Services will communicate with our resources, and each other, to build the business logic necessary to provide feedback to our UI.
 - Data models will be used to represent the domain that we're using within the system (e.g., rooms, reservations, and customers).

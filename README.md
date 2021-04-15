@@ -2,6 +2,14 @@
 - Everything you see inside the Application written in pure Java and Designed by me.
 - You can check out JavaDocs generated for documentation.
 
+## Main Components
+
+There are three major components in this project: 
+
+1. CLI for the User Interface. I used the Command Line Interface or CLI for the user interface. The user can enter commands to search for available rooms, book rooms, and so on.
+2. Java code. The second main component is the Java code itself—this is where I added business logic for the app.
+3. Java collections. Finally, I used Java collections for in-memory storage of the data we need for the app, such as the users' names, room availability, and so on.
+
 ## Application Architecture
 Applications architecture is also designed and written by me.
 

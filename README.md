@@ -21,4 +21,4 @@ I used layering for code maintainability and to make it more human readable. The
 - Services will communicate with our resources, and each other, to build the business logic necessary to provide feedback to our UI.
 - Data models will be used to represent the domain that we're using within the system (e.g., rooms, reservations, and customers).
 
-###### Hotel Reservation Application created and designed entirely by Kaan Kahrama.
+###### Hotel Reservation Application created and designed entirely by [Kaan Kahraman](https://k-kahraman.github.io).
